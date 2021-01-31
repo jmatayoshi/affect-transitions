@@ -1,6 +1,6 @@
 # Affect dynamics with <img src="https://render.githubusercontent.com/render/math?math=\huge L"> and <img src="https://render.githubusercontent.com/render/math?math=\huge L^{*}">
 
-This respository contains a Python module for running numerical experiments on the <img src="https://render.githubusercontent.com/render/math?math=L"> and <img src="https://render.githubusercontent.com/render/math?math=L^{*}"> statistics for affect dynamics.
+This repository contains a Python module for running numerical experiments on the <img src="https://render.githubusercontent.com/render/math?math=L"> and <img src="https://render.githubusercontent.com/render/math?math=L^{*}"> statistics for affect dynamics.
 
 # Requirements
 
